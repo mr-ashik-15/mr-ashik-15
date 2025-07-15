@@ -38,8 +38,8 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in the **MERN
 
 ## 📫 Let's Connect
 - Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn]
-- Email: [your.email@example.com]
+- LinkedIn: [www.linkedin.com/in/mohammed-ashik-42205b326]
+- Email: [mohammedashik1511@gmail.com]
 
 ---
 
